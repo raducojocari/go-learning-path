@@ -1,0 +1,7 @@
+hello INFO
+world DEBUG
+this is an ERROR
+cacata adsa
+another ERROR asd
+asdasd INFO
+aaaa INFO
